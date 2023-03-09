@@ -6,11 +6,11 @@ I have just started coding.
 
 * 🌍  I'm from India
 * 🖥️  See my portfolio at [My Website](httsp://elonmusk.com)
-* ✉️  You can contact me at [Twitter](https://twitter.com/luringking)
+* ✉️  You can contact me at [Twitter](https://twitter.com/thekazimsafi)
 * 🧠  I'm learning Javascript
 
-<a href="https://www.github.com/luringking" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/luringking?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/thekazimsafi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thekazimsafi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br/>  
 
@@ -46,23 +46,23 @@ src="https://img.shields.io/github/followers/luringking?logo=github&style=for-th
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/luringking">
+<a href="https://github.com/thekazimsafi">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
 </a></div>
 <div align="center">
-<a href="https://twitter.com/luringking">
+<a href="https://twitter.com/thekazimsafi">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a></div>
 <div align="center">
-<a href="https://instagram.com/JoJoTheGqmer">
+<a href="https://instagram.com/thekazimsafi">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a></div>
 <div align="center">
-<a href="https://youtube.com/@luringking">
+<a href="https://youtube.com/@thekazimsafi">
 <img src="https://img.shields.io/badge/-YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a></div>
 <div align="center">
-<a href="https://www.facebook.com/JoJoTheGqmer">
+<a href="https://www.facebook.com/thekazimsafi">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a></div>
 <div align="center">
@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/luringking?logo=github&style=for-th
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luringking&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thekazimsafi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
@@ -84,4 +84,4 @@ src="https://img.shields.io/github/followers/luringking?logo=github&style=for-th
 <br />
 
 ----
-<div align="center">Official Profile of <a href="https://twitter.com/luringking" target="_blank">Kazim Safi</a></div>
+<div align="center">Official Profile of <a href="https://twitter.com/thekazimsafi" target="_blank">Kazim Safi</a></div>
