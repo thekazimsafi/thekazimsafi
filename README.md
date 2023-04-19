@@ -5,7 +5,7 @@
 I have just started coding.
 
 * 🌍  I'm from India
-* 🖥️  See my portfolio at [My Website](httsp://elonmusk.com)
+* 🖥️  See my portfolio at [My Website](https://elonmusk.com)
 * ✉️  You can contact me at [Twitter](https://twitter.com/thekazimsafi)
 * 🧠  I'm learning Javascript
 
